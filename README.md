@@ -62,4 +62,4 @@ Me chamo Guilherme, tenho 19 anos e sou do Paraná. Concluí o ensino médio no 
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Prad0&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Prad0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
