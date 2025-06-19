@@ -1,8 +1,8 @@
 # 👨‍💻 Guilherme Prado
 
-**`Desenvolvedor estagiario`**
+**`Desenvolvedor Estagiario`**
 
-Me chamo Guilherme, tenho 19 anos e sou do Paraná. Concluí o ensino médio no 4º Colégio da Polícia Militar do Paraná. Atualmente, estou cursando Engenaria de Software na Unicesumar. 
+Me chamo Guilherme, tenho 19 anos sou de Maringá-PR. Concluí o ensino médio no 4º Colégio da Polícia Militar do Paraná. Atualmente, estou cursando Engenaria de Software na Unicesumar. 
 
 <p align="left">
    <a href="https://github.com/Guilherme-Prad0?tab=repositories&sort=stargazers">
@@ -19,6 +19,9 @@ Me chamo Guilherme, tenho 19 anos e sou do Paraná. Concluí o ensino médio no 
             src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Prad0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="https://www.instagram.com/guilherme_prad0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/guilherme-prad0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </p>
 
 ---
