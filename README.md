@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Prado
 
-**`Desenvolvedor`**
+**`Desenvolvedor estagiario`**
 
 Me chamo Guilherme, tenho 19 anos e sou do Paraná. Concluí o ensino médio no 4º Colégio da Polícia Militar do Paraná. Atualmente, estou cursando Engenaria de Software na Unicesumar. 
 
@@ -69,4 +69,6 @@ Me chamo Guilherme, tenho 19 anos e sou do Paraná. Concluí o ensino médio no 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Guilherme-Prad0&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
 />
+
+
 
