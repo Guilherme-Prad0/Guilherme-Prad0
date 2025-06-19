@@ -5,11 +5,11 @@
 Me chamo Guilherme, tenho 19 anos e sou do Paraná. Concluí o ensino médio no 4º Colégio da Polícia Militar do Paraná. Atualmente, estou cursando Engenaria de Software na Unicesumar. 
 
 <p align="left">
-    <a href="https://github.com/Guilherme-Prad0?tab=repositories&sort=stargazers">
+   <a href="https://github.com/Guilherme-Prad0?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github.com/Guilherme-Prad0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Guilherme-Prad0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Guilherme-Prad0?tab=followers">
