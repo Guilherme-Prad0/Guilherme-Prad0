@@ -75,14 +75,6 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
 
 ---
 
-## 📌 Projetos em Destaque
-
-> 📁 *Confira meus repositórios fixados abaixo para ver meus projetos mais relevantes!*
-
-<!-- Você pode fixar até 6 repositórios no seu perfil do GitHub para aparecerem em destaque -->
-
----
-
 ## 📫 Contato
 
 <div align="left">
@@ -98,11 +90,5 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
   <a href="mailto:guilhermetprado@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guilherme-Prad0&color=00D9FF&style=flat-square&label=Visitas+ao+perfil" alt="Visitas ao perfil" />
 </div>
 
