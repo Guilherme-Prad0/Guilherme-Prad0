@@ -49,6 +49,7 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
 </p>
 
 ---
@@ -61,7 +62,7 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
     src="https://github-readme-stats.vercel.app/api?username=Guilherme-Prad0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0D1117"
   />
   <img 
-    height="180em" 
+    height="250em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Prad0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br"
   />
 </div>
