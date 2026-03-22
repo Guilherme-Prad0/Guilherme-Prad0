@@ -17,7 +17,6 @@ nome:        Guilherme Tamioso Bueno do Prado
 localizacao: Maringá - PR, Brasil 🇧🇷
 formacao:    Engenharia de Software — UniCesumar (3º ano)
 foco:        Desenvolvimento Fullstack
-status:      Aberto a oportunidades de estágio 🟢
 ```
 
 Sou estudante de **Engenharia de Software** na UniCesumar com foco em **desenvolvimento de sistemas e aplicações web**. Tenho experiência com HTML, CSS, JavaScript, Java e C/C++, além de versionamento com Git e GitHub.
@@ -76,41 +75,11 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Guilherme-Prad0&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4"
-    alt="Troféus GitHub"
-  />
-</div>
-
----
-
-## 💼 Experiência
-
-**🖥️ Suporte Técnico**
-- Atendimento e suporte a usuários finais
-- Identificação e resolução de problemas técnicos
-- Apoio à equipe de TI e organização de chamados
-- Desenvolvimento de raciocínio lógico e comunicação técnica
-
----
-
 ## 📌 Projetos em Destaque
 
 > 📁 *Confira meus repositórios fixados abaixo para ver meus projetos mais relevantes!*
 
 <!-- Você pode fixar até 6 repositórios no seu perfil do GitHub para aparecerem em destaque -->
-
----
-
-## 🌱 Atualmente estudando
-
-- React.js e desenvolvimento front-end moderno
-- Node.js para back-end
-- Banco de dados relacionais (SQL)
-- Estruturas de dados e algoritmos
 
 ---
 
@@ -126,7 +95,7 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
   <a href="https://www.linkedin.com/in/guilherme-prad0/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:guilhermetprado@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -137,6 +106,3 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
   <img src="https://komarev.com/ghpvc/?username=Guilherme-Prad0&color=00D9FF&style=flat-square&label=Visitas+ao+perfil" alt="Visitas ao perfil" />
 </div>
 
-<div align="center">
-  <sub>Feito com ❤️ por Guilherme Tamioso Bueno do Prado</sub>
-</div>
