@@ -78,9 +78,6 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
 ## 📫 Contato
 
 <div align="left">
-  <a href="https://github.com/Guilherme-Prad0?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Prad0?color=00D9FF&labelColor=0D1117&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/guilherme_prad0_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
