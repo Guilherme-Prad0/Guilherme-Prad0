@@ -62,7 +62,7 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
     src="https://github-readme-stats.vercel.app/api?username=Guilherme-Prad0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0D1117"
   />
   <img 
-    height="100em" 
+    height="130em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Prad0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br"
   />
 </div>
