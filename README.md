@@ -23,6 +23,8 @@ Sou estudante de **Engenharia de Software** na UniCesumar com foco em **desenvol
 
 Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raciocínio lógico e aprendizado contínuo. Também possuo experiência em **Suporte Técnico**, onde desenvolvi comunicação técnica, resolução de problemas e organização de demandas de TI.
 
+Nos projetos acadêmicos e de extensão, trabalho com **Java e Spring Boot**, **PHP e Laravel** e APIs REST. Tenho conhecimentos em **Python** e **PostgreSQL**, incluindo consultas SQL, criação de tabelas e relacionamentos. Também tenho contato com MongoDB, documentação Swagger/OpenAPI e testes automatizados nos projetos.
+
 > *"A melhor forma de aprender é construindo."*
 
 ---
@@ -42,6 +44,16 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" title="Spring Boot" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" title="Laravel" alt="Laravel"/>
+</p>
+
+### 🗄️ Bancos de dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" alt="MongoDB"/>
 </p>
 
 ### 🛠️ Ferramentas
@@ -50,7 +62,46 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" title="GitLab" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" title="Maven" alt="Maven"/>
 </p>
+
+**Também:** Swagger/OpenAPI e testes com JUnit, Mockito e MockMvc.
+
+---
+
+## 💻 Projetos
+
+### 🏛️ [Portal Cidadão](https://github.com/Guilherme-Prad0/Portal-Cidadao)
+
+Projeto acadêmico **concluído** para gestão de solicitações públicas, com registro de ocorrências, acompanhamento por protocolo e painel do gestor com filtros e atualização de status.
+
+**Tecnologias:** Java, Spring Boot, Thymeleaf, Spring Data JPA, H2 e Maven.
+
+### 🎓 [EduAção](https://github.com/Guilherme-Prad0/EduAcao)
+
+Projeto acadêmico **em desenvolvimento, realizado em equipe**, voltado ao registro e à priorização de problemas educacionais. A prova de conceito utiliza uma API REST com Java, Spring Boot e MongoDB, documentação Swagger/OpenAPI e testes com JUnit, Mockito e MockMvc.
+
+### 🌐 Cidadania Digital Municipal
+
+Participação no projeto de extensão **“Cidadania Digital Municipal: Plataforma e ações de transformação digital para serviços públicos locais”**, da UniCesumar.
+
+Entre suas iniciativas está o **CISPAR**, sistema **em desenvolvimento** para cadastro e gestão de poços vinculados a cidades. Minha atuação inclui consultas administrativas de usuários no backend com **PHP e Laravel**, com pesquisa, filtros e visualização de detalhes. O projeto conta com controle de acesso, documentação OpenAPI e testes automatizados.
+
+*O repositório do CISPAR permanece privado durante o desenvolvimento.*
+
+---
+
+## 📜 Certificados de extensão
+
+Atividades certificadas pela **UniCesumar**:
+
+- **Cidadania Digital Municipal: Plataforma e ações de transformação digital para serviços públicos locais** — outubro de 2026.
+- **Mentoria em Robótica Educacional e Tecnologia da Informação Formação Prática e Teórica Para o Futuro Tecnológico** — outubro de 2024.
+- **Conectando Gerações Cartilha Prática Para Inclusão Digital de Idosos** — dezembro de 2024.
+
+🔗 [Credenciais disponíveis no LinkedIn](https://www.linkedin.com/in/guilherme-prad0/details/certifications/)
 
 ---
 
@@ -89,4 +140,3 @@ Desenvolvo projetos acadêmicos e pessoais, sempre buscando boas práticas, raci
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
